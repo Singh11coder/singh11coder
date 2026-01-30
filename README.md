@@ -110,8 +110,8 @@ Small text: **“Building systems that scale.”**
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/46cbfc84-d5ed-408c-83f4-222957f892c5" />
+
 
 ---
 
