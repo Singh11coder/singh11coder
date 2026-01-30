@@ -22,7 +22,7 @@
 
 ## 🖼️ Hero Banner (Top Image)
 
-> *(Add a custom banner image here)*  
+> *(<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e3fb8568-f660-41c3-ba11-ec0563b6c460" />)*  
 
 **Concept idea:**  
 Dark theme with floating system blocks  
